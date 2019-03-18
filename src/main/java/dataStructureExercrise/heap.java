@@ -41,7 +41,7 @@ public class heap {
         }
     }
 
-    public int peak() {
+    public int peek() {
         return arr[0];
     }
 
